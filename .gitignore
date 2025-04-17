@@ -1,0 +1,22 @@
+# IDE & OS Files
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Java / Maven / Gradle
+target/
+build/
+*.log
+*.jar
+*.war
+
+# Node / Vue
+node_modules/
+dist/
+.npm/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.env*
+!.env.example
