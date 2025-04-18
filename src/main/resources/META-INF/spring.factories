@@ -1,0 +1,2 @@
+# META-INF/spring.factories
+org.springframework.context.ApplicationListener=com.Kz.listener.MyListener

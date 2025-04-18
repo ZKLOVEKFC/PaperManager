@@ -19,7 +19,6 @@ public class CategoryServiceImpl implements CategoryService {
 
     @Override
     public void add(Category category) {
-        //补充属性值
         category.setCreateTime(LocalDateTime.now());
         category.setUpdateTime(LocalDateTime.now());
 
