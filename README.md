@@ -16,6 +16,7 @@
     * Spring Boot 3.4.3
     * MyBatis 3.0.4
     * Maven 3.6
+    * Redis 5.0.14
 * **数据库:**
     * MySQL 8.0.36
 * **前端:**
